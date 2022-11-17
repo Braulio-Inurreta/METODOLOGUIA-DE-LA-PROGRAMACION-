@@ -1,4 +1,4 @@
-Algoritmo descuento_super
+Algoritmo descuento_super_condicional_doble
 	//autor: Braulio Danilo Inurreta Llamas
 	definir tot,desc,ntot,num Como Real;
 	Escribir Sin Saltar "Ingrese el total de su compra: ";
@@ -19,6 +19,6 @@ Algoritmo descuento_super
 		Fin Si
 	SiNo
 		escribir "La Cnatidad ingresada es erronea, por favor intentelo de nuevo";
-	Fin Si
+	FinSi
 	
 FinAlgoritmo
